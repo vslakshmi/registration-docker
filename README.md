@@ -25,3 +25,4 @@ Github automatically changes unix LF to Windows CRLF when the repository is clon
 dos2unix ./registration-webserver/tomcat/run.sh
 dos2unix ./registration-webserver/tomcat/tomcat-users.xml
 ```
+Added another line to README
